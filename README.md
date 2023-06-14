@@ -12,7 +12,7 @@
 <h2>Senior Software Developer at <a href="https://inovola.co.uk/">Inovola</a></h2>
 
 - Senior Software developer (.Net)
-- Senior Mobile developer (Xamarin | Flutter)
+- Senior Mobile developer (Flutter | Xamarin | .Net Maui)
 -----------------------------------------------
 
 <h2> Contact with me on </h2>
