@@ -29,6 +29,13 @@
   
   <h2> Samples from my projects </h2>
 
+### KIB Retail
+
+<img src="https://play-lh.googleusercontent.com/UzVaoUZfHOeJOv9Zh0jLW7HHA2E2uMvcPid7p7cgQqcJYOITC9GkaITWIGgtC6FqCcRP=w480-h960-rw" alt="KIB Retail" height="140" />
+
+<p><a href="https://play.google.com/store/apps/details?id=eu.eleader.mobilebanking.kib&hl=en_US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/kw/app/kib-mobile/id409840829" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
 ### Selah El Telmeez
 
 <img src="https://www.alborsaanews.com/app/uploads/2023/01/1674064596_974_20036_1665860806_664_20437_images18512x435-jpeg.webp" alt="selaheltelmeez" height="140" />
