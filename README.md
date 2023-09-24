@@ -9,7 +9,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coder GIF" width="400" height="300"></a>
 </p>
 
-<h2>Senior Software Developer at <a href="https://inovola.co.uk/">Inovola</a></h2>
+<h2>Senior Software Developer at Squadio </a></h2>
 
 - Senior Software developer (.Net)
 - Senior Mobile developer (Flutter | Xamarin | .Net Maui)
@@ -20,7 +20,6 @@
 <!-- <h3>Where to find me</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
 
-- business email : amr.kamal@inovola.com
 - personal email : amr2006_kamal@yahoo.com
 
 <p><a href="https://www.linkedin.com/in/amr-kamal-48410098/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
