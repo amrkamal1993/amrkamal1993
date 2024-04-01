@@ -58,8 +58,7 @@
 
 <img src="https://play-lh.googleusercontent.com/WF3ImgeEUnWvxQZOxlNAVpQnBdVd81DC4r3I3X4YCJP1efQ6kuAvQtTcLCDbHmOJ6nU=w180" alt="WAJ" height="140" />
 
-
-  <p><a href="https://play.google.com/store/apps/details?id=com.wajapp.waj" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
+<p><a href="https://play.google.com/store/apps/details?id=com.wajapp.waj" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/ae/app/waj-all-in-one-salon-manager/id6471232991" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <!--
 **amrkamal1993/amrkamal1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
