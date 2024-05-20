@@ -9,7 +9,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coder GIF" width="400" height="300"></a>
 </p>
 
-<h2>Senior Software Developer at Squadio </a></h2>
+<h2>Senior Software Developer at Tawuniya </a></h2>
 
 - Senior Software developer (.Net)
 - Senior Mobile developer (Flutter | Xamarin | .Net Maui)
