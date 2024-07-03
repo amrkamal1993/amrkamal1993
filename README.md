@@ -25,6 +25,13 @@
 <p><a href="https://www.linkedin.com/in/amr-kamal-48410098/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
   --------------------------------
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amrkamal1993&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
+</p>
+
+<hr />
+
   
   <h2> Samples from my projects </h2>
 
