@@ -26,10 +26,11 @@
 
   --------------------------------
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amrkamal1993&theme=dark&border_radius=40&background=FFFFFF00&sideLabels=7F7F7FBE&dates=7F7F7FBE&sideNums=7F7F7F&currStreakNum=7F7F7F" />
-</p>
+## Github Stats
 
+<p style="display:flex; align=center; justify-content:center; ">
+<img src="https://github-readme-stats.vercel.app/api?username=amrkamal1993&theme=tokyonight" style="margin-right:4px;">
+</p>
 <hr />
 
   
