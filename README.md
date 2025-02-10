@@ -33,6 +33,24 @@
 </p>
 <hr />
 
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amrkamal1993&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long" alt="amr's GitHub stats" />
+</details>
+  <br></br>
+</td>
+
+
+<td width="50%" align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrkamal1993&theme=algolia">
+  </td>
+</tr>
+</table>
+
   
   <h2> Samples from my projects </h2>
 
