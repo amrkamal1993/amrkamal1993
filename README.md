@@ -26,6 +26,13 @@
 
   <h2> Samples from my projects </h2>
 
+### Tilawah | تلاوة
+
+<img src="https://image.winudf.com/v2/image1/NTAwMTMzMTRfMTc3MjYwMTcwN18wODg/screen-0.png?fakeurl=1&type=webp" alt="KIB Retail" height="140" />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.tilawah.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/%D8%AA%D9%84%D8%A7%D9%88%D8%A9-tilawah/id6758343931" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+  
+
 ### KIB Retail
 
 <img src="https://play-lh.googleusercontent.com/UzVaoUZfHOeJOv9Zh0jLW7HHA2E2uMvcPid7p7cgQqcJYOITC9GkaITWIGgtC6FqCcRP=w480-h960-rw" alt="KIB Retail" height="140" />
