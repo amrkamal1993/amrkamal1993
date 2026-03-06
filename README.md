@@ -35,7 +35,7 @@
 
 ### Selah El Telmeez
 
-<img src="https://www.alborsaanews.com/app/uploads/2023/01/1674064596_974_20036_1665860806_664_20437_images18512x435-jpeg.webp" alt="selaheltelmeez" height="140" />
+<img src="https://media.licdn.com/dms/image/v2/C4D0BAQGI_XRj8KzCNg/company-logo_200_200/company-logo_200_200/0/1637591142353/selaheltelmeez_logo?e=1774483200&v=beta&t=RQzY6Ah6PJuMzesPxFx6IOPkIEFdBeDmTMbyw_PRZO4" alt="selaheltelmeez" height="140" />
 
 <p><a href="https://play.google.com/store/apps/details?id=com.selaheltelmeezcompany.Selaheltelmeez&hl=en_US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/selaheltelmeez-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AA%D9%84%D9%85%D9%8A%D8%B0/id1534150931" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
